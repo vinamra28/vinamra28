@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-I am Vinamra Jain, a passionate developer with 6+ months of professional remote working experience. 🎯
+I am Vinamra Jain, a passionate developer working in India with 6+ months of professional working experience. 🎯
 
-I mostly work with Golang and Cloud-Native technologies. 🚀
+- 🏢 I'm currently working at **Red Hat**
+- 🌍 I'm mostly active within the [**Tekton Community**](https://tekton.dev)
+- 🌱 Learning all about **Open Source**
+-  ⚙️ Also develop Android applications
+-  ⚙️ I mostly work with Golang and Cloud-Native technologies. 🚀
+-  ⚙️ I also love to work with Java and NodeJs 🚀
 
 
 <p float="left">
@@ -25,6 +30,14 @@ I mostly work with Golang and Cloud-Native technologies. 🚀
  <p float="left">
   <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/vinamra28/vinamra28/master/assets/mongo.gif" height="80" />
+  </a>
+</p>
+
+### Android
+
+<p float="left">
+  <a href="https://developer.android.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/vinamra28/vinamra28/master/assets/android.gif" height="80" />
   </a>
 </p>
 
