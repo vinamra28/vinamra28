@@ -7,16 +7,16 @@ I mostly work with Golang and Cloud-Native technologies. 🚀
 
 <p float="left">
   <a href="https://golang.org/" target="_blank" >
-    <img src="./assets/golang.gif"  height="90" />
+    <img src="https://raw.githubusercontent.com/vinamra28/vinamra28/master/assets/golang.gif"  height="90" />
   </a>
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="./assets/docker.gif"  height="80" /> 
+    <img src="https://raw.githubusercontent.com/vinamra28/vinamra28/master/assets/docker.gif"  height="80" /> 
   </a>
   <a href="https://kubernetes.io/" target="_blank" >
-    <img src="./assets/k8s.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/vinamra28/vinamra28/master/assets/k8s.gif"  height="75" />
   </a>
   <a href="https://tekton.dev/" target="_blank" >
-    <img src="./assets/tekton.png"  height="75" />
+    <img src="https://raw.githubusercontent.com/vinamra28/vinamra28/master/assets/tekton.png"  height="75" />
   </a>
  </p>
 
@@ -24,7 +24,7 @@ I mostly work with Golang and Cloud-Native technologies. 🚀
 
  <p float="left">
   <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="./assets/mongo.gif" height="80" />
+    <img src="https://raw.githubusercontent.com/vinamra28/vinamra28/master/assets/mongo.gif" height="80" />
   </a>
 </p>
 
