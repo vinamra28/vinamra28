@@ -5,10 +5,8 @@ I am Vinamra Jain, a passionate developer working in India with 6+ months of pro
 - 🏢 I'm currently working at **Red Hat**
 - 🌍 I'm mostly active within the [**Tekton Community**](https://tekton.dev)
 - 🌱 Learning all about **Open Source**
--  ⚙️ Also develop Android applications
--  ⚙️ I mostly work with Golang and Cloud-Native technologies. 🚀
--  ⚙️ I also love to work with Java and NodeJs 🚀
-
+- ⚙️ I mostly work with Golang and Cloud-Native technologies. 🚀
+- ⚙️ I also love to work with Java and NodeJs and develop Android applications. 🚀
 
 <p float="left">
   <a href="https://golang.org/" target="_blank" >
@@ -25,7 +23,16 @@ I am Vinamra Jain, a passionate developer working in India with 6+ months of pro
   </a>
  </p>
 
- ### Databases
+ <p float="left">
+  <a href="https://www.oracle.com/java/technologies/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/vinamra28/vinamra28/master/assets/java.gif"  height="90" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/vinamra28/vinamra28/master/assets/nodejs.gif"  height="80" /> 
+  </a>
+ </p>
+
+### Databases
 
  <p float="left">
   <a href="https://www.mongodb.com/" target="_blank" >
@@ -41,8 +48,8 @@ I am Vinamra Jain, a passionate developer working in India with 6+ months of pro
   </a>
 </p>
 
-### 📫 How to reach me? 
+### 📫 How to reach me?
 
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/vinamra-jain-2b5682128/) 👨🏻‍💻 <br>
-  ⦿ Follow me on [Twitter](https://twitter.com/jvinamra776) 🐦 <br>
-  ⦿ Shoot Me an [Email](mailto:jvinamra776@gmail.com) 💌 <br>
+⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/vinamra-jain-2b5682128/) 👨🏻‍💻 <br>
+⦿ Follow me on [Twitter](https://twitter.com/jvinamra776) 🐦 <br>
+⦿ Shoot Me an [Email](mailto:jvinamra776@gmail.com) 💌 <br>
