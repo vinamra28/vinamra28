@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Vinamra Jain, a passionate developer working in India with 6+ months of professional working experience. 🎯
+I am Vinamra Jain, a passionate developer working in India with more than 1 year of professional working experience. 🎯
 
 - 🏢 I'm currently working at **Red Hat**
 - 🌍 I'm mostly active within the [**Tekton Community**](https://tekton.dev)
@@ -53,3 +53,4 @@ I am Vinamra Jain, a passionate developer working in India with 6+ months of pro
 ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/vinamra-jain-2b5682128/) 👨🏻‍💻 <br>
 ⦿ Follow me on [Twitter](https://twitter.com/jvinamra776) 🐦 <br>
 ⦿ Shoot Me an [Email](mailto:jvinamra776@gmail.com) 💌 <br>
+⦿ Read my blogs on [Medium](https://vinamra-jain.medium.com/) 📝 <br>
