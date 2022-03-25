@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I am Vinamra Jain, a passionate developer working in India with more than 1 year of professional working experience. 🎯
+I am Vinamra Jain, a passionate developer working in India with more than 1.5 year of professional working experience. 🎯
 
-- 🏢 I'm currently working at **Red Hat**
+- 🏢 Currently working with Razorpay
+- 🏢 Previously worked at **Red Hat**
 - 🌍 I'm mostly active within the [**Tekton Community**](https://tekton.dev)
 - 🌱 Learning all about **Open Source**
 - ⚙️ I mostly work with Golang and Cloud-Native technologies. 🚀
