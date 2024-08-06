@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I am Vinamra Jain, a passionate developer working in India with more than 1.5 year of professional working experience. 🎯
+I am Vinamra Jain, a passionate developer working in India with more than 4 years of professional working experience. 🎯
 
-- 🏢 Currently working with Razorpay
-- 🏢 Previously worked at **Red Hat**
+- 🏢 Currently working with **Red Hat**
+- 🏢 Previously worked at **Razorpay**
 - 🌍 I'm mostly active within the [**Tekton Community**](https://tekton.dev)
 - 🌱 Learning all about **Open Source**
-- ⚙️ I mostly work with Golang and Cloud-Native technologies. 🚀
+- ⚙️ I mostly love working with Golang, Cloud-Native, Data warehousing technologies. 🚀
 - ⚙️ I also love to work with Java and NodeJs and develop Android applications. 🚀
 
 <p float="left">
@@ -35,9 +35,12 @@ I am Vinamra Jain, a passionate developer working in India with more than 1.5 ye
 
 ### Databases
 
- <p float="left">
+<p float="left">
   <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/vinamra28/vinamra28/master/assets/mongo.gif" height="80" />
+  </a>
+  <a href="https://www.snowflake.com/en/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/vinamra28/vinamra28/master/assets/snowflake.png" height="80" />
   </a>
 </p>
 
